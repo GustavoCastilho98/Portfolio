@@ -3,6 +3,7 @@
 body {
     margin: 0;
     padding: 0;
+    line-height: 0;
 }
 
 :root{ 
@@ -57,6 +58,7 @@ body {
 #header .site-title .navbar-brand{
     letter-spacing: 2px;
     color: var(--color-white);
+    margin-right: 0rem;
 }
 #header .nav-link{
     margin: .7rem 1rem;
